@@ -13,3 +13,6 @@
 ## Comparisons
 ### Neural Network Structure Selection
 - [NN-Structures.ipynb](./NN-Structures.ipynb)
+
+## Neural Network Pruning using Rank Computations
+- [NN-Pruning-using-Ranks](./NN-Pruning-using-Ranks.ipynb)
