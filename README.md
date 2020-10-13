@@ -1,18 +1,24 @@
 # Dahlia Experiments
 ### Experimental results for Dahlia.
 
-### N-BaIoT Dataset
+## N-BaIoT Dataset
 - https://www.kaggle.com/mkashifn/nbaiot-dataset
 
-### Training and Validation Losses
+## Training and Validation Losses
 - [NN-Accuracy-Scores.ipynb](./NN-Accuracy-Scores.ipynb)
 
-### Changes in Weights and Biases vs Epochs
+## Changes in Weights and Biases vs Epochs
 - [NN-W-n-B-vs-Epochs.ipynb](./NN-W-n-B-vs-Epochs.ipynb)
+
+
+## Rank Computations
+
+### Neural Network Pruning using Rank Computations
+- [NN-Pruning-using-Ranks](./NN-Pruning-using-Ranks.ipynb)
+
+### Neural Network Accuracy after Pruning
+- [NN-Accuracy-after-Pruning](./NN-Accuracy-after-Pruning.ipynb)
 
 ## Comparisons
 ### Neural Network Structure Selection
 - [NN-Structures.ipynb](./NN-Structures.ipynb)
-
-## Neural Network Pruning using Rank Computations
-- [NN-Pruning-using-Ranks](./NN-Pruning-using-Ranks.ipynb)
