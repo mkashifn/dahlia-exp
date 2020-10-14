@@ -19,6 +19,9 @@
 ### Neural Network Accuracy after Pruning
 - [NN-Accuracy-after-Pruning](./NN-Accuracy-after-Pruning.ipynb)
 
+### Detailed Neural Network Pruning
+- [NN-Pruning-Detailed.ipynb](./NN-Pruning-Detailed.ipynb)
+
 ## Comparisons
 ### Neural Network Structure Selection
 - [NN-Structures.ipynb](./NN-Structures.ipynb)
