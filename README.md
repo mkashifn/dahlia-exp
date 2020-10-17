@@ -11,16 +11,13 @@
 - [NN-W-n-B-vs-Epochs.ipynb](./NN-W-n-B-vs-Epochs.ipynb)
 
 
-## Rank Computations
+## Rank Computations and Pruning
 
-### Neural Network Pruning using Rank Computations
-- [NN-Pruning-using-Ranks](./NN-Pruning-using-Ranks.ipynb)
+### Effecs on Time Complexity
+- [NN-Time-Complexity-after-Pruning](./NN-Time-Complexity-after-Pruning.ipynb)
 
-### Neural Network Accuracy after Pruning
+### Effects on Training and Validation Accuracies
 - [NN-Accuracy-after-Pruning](./NN-Accuracy-after-Pruning.ipynb)
-
-### Detailed Neural Network Pruning
-- [NN-Pruning-Detailed.ipynb](./NN-Pruning-Detailed.ipynb)
 
 ## Comparisons
 ### Neural Network Structure Selection
