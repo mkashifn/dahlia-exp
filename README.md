@@ -11,7 +11,10 @@
 - [NN-W-n-B-vs-Epochs.ipynb](./NN-W-n-B-vs-Epochs.ipynb)
 
 
-## Rank Computations and Pruning
+## Rank Computations and Compression
+
+### NN Compression
+- [NN-Compression](./NN-Compression.ipynb)
 
 ### Effecs on Time Complexity
 - [NN-Time-Complexity-after-Pruning](./NN-Time-Complexity-after-Pruning.ipynb)
