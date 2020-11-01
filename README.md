@@ -4,6 +4,10 @@
 ## N-BaIoT Dataset
 - https://www.kaggle.com/mkashifn/nbaiot-dataset
 
+## NN Setructure Selection Algorithm
+- [NN-SS-recursive-tests.ipynb](./NN-SS-recursive-tests.ipynb)
+- [NN-SS-non-recursive-tests.ipynb](./NN-SS-non-recursive-tests.ipynb)
+
 ## Training and Validation Losses
 - [NN-Accuracy-Scores.ipynb](./NN-Accuracy-Scores.ipynb)
 
