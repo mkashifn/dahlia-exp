@@ -5,6 +5,7 @@
 - https://www.kaggle.com/mkashifn/nbaiot-dataset
 
 ## NN Setructure Selection Algorithm
+- [NN-SS-Illustration.ipynb](./NN-SS-Illustration.ipynb)
 - [NN-SS-recursive-tests.ipynb](./NN-SS-recursive-tests.ipynb)
 - [NN-SS-non-recursive-tests.ipynb](./NN-SS-non-recursive-tests.ipynb)
 
