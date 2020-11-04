@@ -30,3 +30,6 @@
 ## Comparisons
 ### Neural Network Structure Selection
 - [NN-Structures.ipynb](./NN-Structures.ipynb)
+
+## Run-time Performance Gains when Using Dahlia
+- [NN-Performance-gains-Dahlia.ipynb](./NN-Performance-gains-Dahlia.ipynb)
