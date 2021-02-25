@@ -28,6 +28,7 @@
 - [NN-Accuracy-after-Pruning](./NN-Accuracy-after-Pruning.ipynb)
 
 ## Comparisons
+- [NN-Comparisons.ipynb](./NN-Comparisons.ipynb)
 ### Neural Network Structure Selection
 - [NN-Structures.ipynb](./NN-Structures.ipynb)
 
